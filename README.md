@@ -1,2 +1,2 @@
-# fastapi_fw
-FastAPI Framework 
+# Blog with fastapi
+Blog with FastAPI Framework 
